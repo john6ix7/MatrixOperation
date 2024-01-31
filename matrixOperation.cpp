@@ -146,5 +146,8 @@ int main() {
     cout << "Matrix A * Matrix B: " << endl;
     resultMultiply.display();
 
+    cout << "Hello";
+    cout << "This is a branch test";
+
     return 0;
 }
